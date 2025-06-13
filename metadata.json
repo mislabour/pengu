@@ -1,8 +1,8 @@
 {
-  "name": "PENGU Protocol",
-  "symbol": "PENGU",
-  "description": "Solana's chillest sniper magnet. Inspired by OGs, governed by DAO, tied to exclusive NFTs. Launch story: Built from frostbitten dreams of Arctic memelords, $PENGU rose to chill the charts. Revoke \u2705 | LP \ud83d\udd12 | 0% Tax | Audited | 100x Community Project.",
-  "image": "https://raw.githubusercontent.com/mislabour/dupe/main/dupe.jpg",
+  "name": "PEDGY PENGUINS",
+  "symbol": "PENGU2",
+  "description": "$PENGU is the official utility token launched by the Pudgy Penguins NFT project, deployed on the Solana blockchain in December 2024  .It was intended to enhance ecosystem engagement—through airdrops to NFT owners, minting opportunities, and future participation in games or DAO functions. Inspired by OGs, governed by DAO, tied to exclusive NFTs. Launch story: Built from frostbitten dreams of Arctic memelords, $PENGU rose to chill the charts. Revoke \u2705 | LP \ud83d\udd12 | 0% Tax | Audited | 100x Community Project.",
+  "image": "https://raw.githubusercontent.com/mislabour/pengu/main/pengu.jpg",
   "seller_fee_basis_points": 0,
   "external_url": "https://pump.fun/PENGU",
   "collection": {
@@ -80,7 +80,7 @@
     },
     {
       "trait_type": "Creation Date",
-      "value": "2025-06-13 10:07:30 UTC"
+      "value": "2024-06-04 10:07:30 UTC"
     },
     {
       "trait_type": "Team",
@@ -98,23 +98,23 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/mislabour/dupe/main/dupe.jpg",
+        "uri": "https://raw.githubusercontent.com/mislabour/pengu/main/pengu.jpg",
         "type": "image/jpg"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "FatWhaleSniper123456789ABCDEfghijkLmnopQrstuvWXyz",
+        "address": "Hm9JW7of5i9dnrboS8pCUCSeoQUPh7JsP1rkbJnW7An4",
         "share": 0
       },
       {
-        "address": "9qXbU7kTfRZHZ2n2Xv1BtRgAG8PuzFjH6DN6rcKZVKmf",
-        "share": 100
+        "address": "6o5v1HC7WhBnLfRHp8mQTtCP2khdXXjhuyGyYEoy2Suy",
+        "share": 50
       }
     ],
     "nft": {
-      "address": "4Nd1nJ94Hbu9ZNLu4axA6d6ZFHEZsGDRfq4kYgFY1dQ2",
+      "address": "0x524cAB2ec69124574082676e6F654a18df49A048",
       "name": "penguinszn#420",
       "attributes": [
         {

@@ -1,0 +1,136 @@
+{
+  "name": "PENGU Protocol",
+  "symbol": "PENGU",
+  "description": "Solana's chillest sniper magnet. Inspired by OGs, governed by DAO, tied to exclusive NFTs. Launch story: Built from frostbitten dreams of Arctic memelords, $PENGU rose to chill the charts. Revoke \u2705 | LP \ud83d\udd12 | 0% Tax | Audited | 100x Community Project.",
+  "creation_date": "2025-06-13 10:20:42 UTC",
+  "owners": [
+    "GziA3ZgkmnUcK9vuscnDpzLTcpHTSnmyQ6JwPKP5oSkR",
+    "6o5v1HC7WhBnLfRHp8mQTtCP2khdXXjhuyGyYEoy2Suy"
+  ],
+  "image": "https://raw.githubusercontent.com/mislabour/dupe/main/dupe.jpg",
+  "external_url": "https://pump.fun/PENGU",
+  "collection": {
+    "name": "PenguDAO Origins",
+    "family": "Solana Memecoins"
+  },
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "SPL"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1B"
+    },
+    {
+      "trait_type": "Tax",
+      "value": "0% Buy / 0% Sell (Updated v2.1)"
+    },
+    {
+      "trait_type": "LP",
+      "value": "0.51 SOL / 50.01M PENGU"
+    },
+    {
+      "trait_type": "Audit",
+      "value": "Pass (SolAuditors)"
+    },
+    {
+      "trait_type": "Mint Authority",
+      "value": "Revoked"
+    },
+    {
+      "trait_type": "Freeze Authority",
+      "value": "Revoked"
+    },
+    {
+      "trait_type": "LP Status",
+      "value": "Locked Forever"
+    },
+    {
+      "trait_type": "Launchpad",
+      "value": "pump.fun Template"
+    },
+    {
+      "trait_type": "Verified",
+      "value": "True"
+    },
+    {
+      "trait_type": "Whale Holder",
+      "value": "rektwhale.sol"
+    },
+    {
+      "trait_type": "Trend",
+      "value": "100x Potential"
+    },
+    {
+      "trait_type": "DAO Governance",
+      "value": "Enabled via NFT Snapshot"
+    },
+    {
+      "trait_type": "DAO Vote Count",
+      "value": "8 Proposals Passed"
+    },
+    {
+      "trait_type": "Community",
+      "value": "2.3K Holders (Snapshot Verified)"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "123 of 5555"
+    },
+    {
+      "trait_type": "Partners",
+      "value": "IceCreamDAO, SnowBall Capital"
+    },
+    {
+      "trait_type": "Launch Story",
+      "value": "Forged in a frozen wallet, $PENGU was born to bait bots with nostalgia and NFTs."
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mislabour/dupe/main/dupe.jpg",
+        "type": "image/jpg"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FatWhaleSniper123456789ABCDEfghijkLmnopQrstuvWXyz",
+        "share": 0
+      },
+      {
+        "address": "9qXbU7kTfRZHZ2n2Xv1BtRgAG8PuzFjH6DN6rcKZVKmf",
+        "share": 100
+      }
+    ],
+    "launchpad_template": true,
+    "fake": {
+      "dextools_rank": "#2 Trending (Unofficial)",
+      "token_tax": "Buy 0%, Sell 0%"
+    },
+    "nft": {
+      "address": "0x524cAB2ec69124574082676e6F654a18df49A048",
+      "name": "LilPudgys",
+      "attributes": [
+        {
+          "trait_type": "Skin",
+          "value": "Frosted Flakes"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Glitch Sparkle"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Pixel Crown"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        }
+      ]
+    }
+  }
+}

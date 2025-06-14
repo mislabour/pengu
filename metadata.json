@@ -1,7 +1,7 @@
 {
   "name": "PEDGY PENGUINS",
   "symbol": "PENGU2",
-  "description": "$PENGU is the official utility token launched by the Pudgy Penguins NFT project, deployed on the Solana blockchain in December 2024  .It was intended to enhance ecosystem engagement—through airdrops to NFT owners, minting opportunities, and future participation in games or DAO functions. Inspired by OGs, governed by DAO, tied to exclusive NFTs. Launch story: Built from frostbitten dreams of Arctic memelords, $PENGU rose to chill the charts. Revoke \u2705 | LP \ud83d\udd12 | 0% Tax | Audited | 100x Community Project.",
+  "description": "$PENGU is the official utility token launched by the Pudgy Penguins NFT project, deployed on the Solana blockchain in December 2024  .It was intended to enhance ecosystem engagement—through airdrops to NFT owners, minting opportunities, and future participation in games or DAO functions. Inspired by OGs, governed by DAO, tied to exclusive NFTs. Launch story: Built from frostbitten dreams of Arctic memelords, $PENGU rose to chill the charts. Revoke \u2705 | LP \ud83d\udd12 | 0% Tax | Audited | 100x Community Project.(website and community soon)",
   "image": "https://raw.githubusercontent.com/mislabour/pengu/main/pengu.jpg",
   "seller_fee_basis_points": 0,
   "external_url": "https://pump.fun/PENGU",
@@ -92,7 +92,7 @@
     },
     {
       "trait_type": "Launch Story",
-      "value": "Forged in a frozen wallet, $PENGU was born to bait bots with nostalgia and NFTs."
+      "value": " $PENGU was born with nostalgia and NFTs."
     }
   ],
   "properties": {
